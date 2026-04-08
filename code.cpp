@@ -113,9 +113,6 @@ using namespace std;
 
 // .... Q7. dice problem
 
-// #include <iostream>
-// using namespace std;
-
 // int oppositeFaceOfDice(int n) {
 //     // check valid dice number
 //     if (n < 1 || n > 6) {
